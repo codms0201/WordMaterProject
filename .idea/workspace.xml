@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16193b50-6c86-4639-921f-8ef4f61c490d" name="Changes" comment="first upload">
+    <list default="true" id="16193b50-6c86-4639-921f-8ef4f61c490d" name="Changes" comment="Upload update fuction">
+      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" afterDir="false" />
     </list>
@@ -24,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -57,7 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1694238711673</updated>
       <workItem from="1694238713240" duration="6554000" />
-      <workItem from="1694502657225" duration="1667000" />
+      <workItem from="1694502657225" duration="3259000" />
+      <workItem from="1694761638889" duration="2255000" />
+      <workItem from="1694763937631" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <option name="closed" value="true" />
@@ -67,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694243872206</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload update fuction">
+      <option name="closed" value="true" />
+      <created>1694505247842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694505247842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="first upload" />
+    <MESSAGE value="Upload update fuction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload update fuction" />
   </component>
 </project>

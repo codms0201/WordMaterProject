@@ -24,12 +24,13 @@ public class WordManager {
         );
         return s.nextInt();
     }
-    public void start(){
+    public void start() {
+        wordCRUD.loadFile();
         while(true){
             int menu = selectMenu();
             if(menu == 0) break;
             if(menu == 4){
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             else if(menu == 1){
                 wordCRUD.listAll();
@@ -38,7 +39,10 @@ public class WordManager {
                 wordCRUD.updateItem();
             }
             else if(menu == 6){
-                //delete
+                wordCRUD.deleteItem();
+            }
+            else if(menu == 7){
+                wordCRUD.saveFile();
             }
         }
     }
