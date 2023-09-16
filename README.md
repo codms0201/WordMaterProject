@@ -1,8 +1,8 @@
 # WordMaterProject
-
 모든 단어 보기 실행 화면
 <img width="1382" alt="스크린샷 2023-09-09 오후 4 35 54" src="https://github.com/codms0201/WordMaterProject/assets/103431850/097f004e-154d-4d14-81e0-2afd6475defb">
 <img width="1392" alt="스크린샷 2023-09-09 오후 4 36 30" src="https://github.com/codms0201/WordMaterProject/assets/103431850/b9def292-bb35-45f9-8cf1-df64464f6b41">
+=> 파일 로드 기능을 추가 하고 실행한 화면
 <img width="1393" alt="스크린샷 2023-09-16 오후 8 55 01" src="https://github.com/codms0201/WordMaterProject/assets/103431850/4f8945e8-1f68-4db5-b1c9-10781f371860">
 
 수준별 단어 보기 실행 화면
