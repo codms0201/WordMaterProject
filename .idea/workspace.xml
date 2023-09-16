@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16193b50-6c86-4639-921f-8ef4f61c490d" name="Changes" comment="Upload update fuction">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+    <list default="true" id="16193b50-6c86-4639-921f-8ef4f61c490d" name="Changes" comment="Upload loadFile.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
       <workItem from="1694238713240" duration="6554000" />
       <workItem from="1694502657225" duration="3259000" />
       <workItem from="1694761638889" duration="2255000" />
-      <workItem from="1694763937631" duration="1099000" />
+      <workItem from="1694763937631" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <option name="closed" value="true" />
@@ -82,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694505247842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload loadFile.">
+      <option name="closed" value="true" />
+      <created>1694765250377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694765250377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +98,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first upload" />
     <MESSAGE value="Upload update fuction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload update fuction" />
+    <MESSAGE value="Upload loadFile." />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload loadFile." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
